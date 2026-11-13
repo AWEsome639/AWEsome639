@@ -41,13 +41,31 @@
 
 ---
 
+---
+
+## 🔬 数据竞赛
+
+比起刷榜，我更在意**「这套东西真能跑起来吗」**。
+
+| 赛事 | 主办 | 做了什么 | 结果 |
+|---|---|---|---|
+| [AMD Global Physical AI · Behavioral Safety](https://zindi.world/competitions/amd-global-physical-ai-safety-challenge) | AMD | 行为安全表格建模 | **第 7 / 190** · Public LB `0.8084` |
+| [GenAI for Good: Cities](https://zindi.world/competitions/GenAI-for-Good-Challenge) | IEEE HT × UNDP | 城市研判问答 agent（多轮检索 + 证据引用） | **Public LB 前 10 / 469** · `0.7743` |
+| [Underwater Vessel Noise](https://zindi.world/competitions/french-embassy-underwater-vessel-noise-challenge) | 法国驻南非使馆 | 水下噪声源识别 | `0.8043` |
+| [TelcoRetrieve](https://zindi.world/competitions/telcoretrieve-challenge-unlocking-telco-knowledge) | ITU × GSMA | 3GPP 规范 RAG（自建索引 + 重排 + 生成） | 进行中 |
+| [Green Rising Methane](https://zindi.world/competitions/green-rising-methane-innovation-challenge) | — | 全球甲烷站点 5 天预报 | 进行中 |
+
+**[NFL Big Data Bowl 2027 · University Track](https://github.com/AWEsome639/nfl-bdb-2027-university-track)** —— 用 Combine 体测数据预测常规赛表现，公开代码 + 完整 writeup。
+
+代码都在 → [data-science-competitions](https://github.com/AWEsome639/data-science-competitions)
+
 ## 📊 一些数字
 
 | | |
 |---|---|
 | 写过的最大的项目 | **355 款游戏 / 384 个源文件** |
 | 主动上过架的鸿蒙应用 | 1 个（在审） |
-| 参加过的数据竞赛 | Kaggle / DrivenData / 天池 |
+| 数据竞赛 | Kaggle / Zindi / DrivenData / 天池 —— 拿过 1 次前十 |
 | 最常待的地方 | 图书馆三楼靠窗 |
 
 ---
